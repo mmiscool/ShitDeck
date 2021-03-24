@@ -6,8 +6,6 @@
 buttonTemplate = `<a href="./XXX" target="thing">
 	<img src="icons/XXX.png" width="70" height="70">
 </a>`
-
-
 var i;
 for (i = 0; i < 21; i++) {
   newBoddy =  buttonTemplate.replace("XXX", i );
@@ -16,7 +14,4 @@ for (i = 0; i < 21; i++) {
   document.body.innerHTML = document.body.innerHTML + newBoddy;
   if (i==6 | i==13) document.body.innerHTML = document.body.innerHTML + "<br>";
 }
-
-
-
 </script>
