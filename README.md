@@ -1,5 +1,6 @@
 # ShitDeck
 Its like Stream deck but crappier and free.
+Exicute macros on a PC from icons on the screen of a phone or tablet (using an app or a web browser). A functional replacement for functionality provided by expensive comercial products like stream deck. 
 
 I threw this together in under 2 hours as an example using autoit as autoit is a great general purpose macro program for windows. 
 Run the program and load up your PCs ip address in the web browser on your mobile device. 
